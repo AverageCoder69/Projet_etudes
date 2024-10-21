@@ -1,3 +1,5 @@
+#Ceci est un code qui sur R qui permet de calculer le restant de pension de retraite fictive avec trois fonctions pré-définiees (Chapeau, Vague et Bosse)
+
 params<-list(
   alpha=c( 0.5, 0.4, 0.1
   ),
